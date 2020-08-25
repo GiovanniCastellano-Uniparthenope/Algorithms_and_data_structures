@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1516874425 source:c:\users\giovanni c\desktop\huffman\huffman_encoder_decoder\cpp files\classfile.cpp
+	"librerie.hpp"
+	"classfile.hpp"
+
+1516873113 c:\users\giovanni c\desktop\huffman\huffman_encoder_decoder\hpp files\librerie.hpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<string.h>
+
+1516874304 c:\users\giovanni c\desktop\huffman\huffman_encoder_decoder\hpp files\classfile.hpp
+	"librerie.hpp"
+	"heap.hpp"
+
+1516873212 c:\users\giovanni c\desktop\huffman\huffman_encoder_decoder\hpp files\heap.hpp
+	"librerie.hpp"
+
+1516872286 source:c:\users\giovanni c\desktop\huffman\huffman_encoder_decoder\cpp files\heap.cpp
+	"librerie.hpp"
+	"heap.hpp"
+
+1516873745 source:c:\users\giovanni c\desktop\huffman\huffman_encoder_decoder\main.cpp
+	"main.hpp"
+
+1516872053 c:\users\giovanni c\desktop\huffman\huffman_encoder_decoder\hpp files\main.hpp
+	"librerie.hpp"
+	"heap.hpp"
+	"classfile.hpp"
+
+1519726596 source:c:\users\giovanni c\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\cpp files\classfile.cpp
+	"classfile.hpp"
+
+1518965024 c:\users\giovanni c\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\hpp files\librerie.hpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+
+1519726062 c:\users\giovanni c\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\hpp files\classfile.hpp
+	"librerie.hpp"
+	"classalbero.hpp"
+	"priorityqueue.hpp"
+
+1516882721 c:\users\giovanni c\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\hpp files\heap.hpp
+	"librerie.hpp"
+
+1516872286 source:c:\users\giovanni c\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\cpp files\heap.cpp
+	"librerie.hpp"
+	"heap.hpp"
+
+1519726889 source:c:\users\giovanni c\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\main.cpp
+	"main.hpp"
+
+1519726062 c:\users\giovanni c\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\hpp files\main.hpp
+	"librerie.hpp"
+	"priorityqueue.hpp"
+	"classalbero.hpp"
+	"classfile.hpp"
+
+1519726062 c:\users\giovanni c\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\hpp files\priorityqueue.hpp
+	"librerie.hpp"
+
+1519726062 source:c:\users\giovanni c\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\cpp files\priorityqueue.cpp
+	"priorityqueue.hpp"
+
+1518536119 source:c:\users\jhonny\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\cpp files\classfile.cpp
+	"librerie.hpp"
+	"classfile.hpp"
+
+1518527836 c:\users\jhonny\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\hpp files\librerie.hpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+
+1518527836 c:\users\jhonny\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\hpp files\classfile.hpp
+	"librerie.hpp"
+	"priorityqueue.hpp"
+
+1518527832 c:\users\jhonny\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\hpp files\priorityqueue.hpp
+	"librerie.hpp"
+
+1518527838 source:c:\users\jhonny\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\cpp files\priorityqueue.cpp
+	"librerie.hpp"
+	"priorityqueue.hpp"
+
+1518536147 source:c:\users\jhonny\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\main.cpp
+	"main.hpp"
+
+1518527834 c:\users\jhonny\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\hpp files\main.hpp
+	"librerie.hpp"
+	"priorityqueue.hpp"
+	"classfile.hpp"
+
+1519726062 c:\users\giovanni c\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\hpp files\classalbero.hpp
+	"librerie.hpp"
+
+1519725966 source:c:\users\giovanni c\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\cpp files\classalbero.cpp
+	"classalbero.hpp"
+
+1519816458 source:c:\users\giovanni\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\cpp files\classalbero.cpp
+	"classalbero.hpp"
+
+1519816452 c:\users\giovanni\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\hpp files\classalbero.hpp
+	"librerie.hpp"
+
+1529400921 c:\users\giovanni\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\hpp files\librerie.hpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+
+1530435549 source:c:\users\giovanni\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\cpp files\classfile.cpp
+	"classfile.hpp"
+
+1529400885 c:\users\giovanni\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\hpp files\classfile.hpp
+	"librerie.hpp"
+	"classalbero.hpp"
+	"priorityqueue.hpp"
+
+1529409372 c:\users\giovanni\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\hpp files\priorityqueue.hpp
+	"librerie.hpp"
+
+1529411009 source:c:\users\giovanni\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\cpp files\priorityqueue.cpp
+	"priorityqueue.hpp"
+
+1529482019 source:c:\users\giovanni\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\main.cpp
+	"main.hpp"
+
+1519816448 c:\users\giovanni\desktop\progetto_giovanni_castellano\huffman_encoder_decoder\hpp files\main.hpp
+	"librerie.hpp"
+	"priorityqueue.hpp"
+	"classalbero.hpp"
+	"classfile.hpp"
+

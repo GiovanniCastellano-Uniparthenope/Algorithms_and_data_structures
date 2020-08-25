@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1518953442 source:c:\users\giovanni c\desktop\progetto_giovanni_castellano\bellman_ford\cpp files\edge.cpp
+	"edge.hpp"
+
+1518953442 c:\users\giovanni c\desktop\progetto_giovanni_castellano\bellman_ford\hpp files\edge.hpp
+	"librerie.hpp"
+
+1518953442 c:\users\giovanni c\desktop\progetto_giovanni_castellano\bellman_ford\hpp files\librerie.hpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<string>
+
+1519467501 source:c:\users\giovanni c\desktop\progetto_giovanni_castellano\bellman_ford\cpp files\graph.cpp
+	"graph.hpp"
+
+1519399199 c:\users\giovanni c\desktop\progetto_giovanni_castellano\bellman_ford\hpp files\graph.hpp
+	"librerie.hpp"
+	"edge.hpp"
+
+1518953442 source:c:\users\giovanni c\desktop\progetto_giovanni_castellano\bellman_ford\main.cpp
+	"main.hpp"
+
+1518953442 c:\users\giovanni c\desktop\progetto_giovanni_castellano\bellman_ford\hpp files\main.hpp
+	"librerie.hpp"
+	"edge.hpp"
+	"graph.hpp"
+
+1519816466 source:c:\users\giovanni\desktop\progetto_giovanni_castellano\bellman_ford\cpp files\edge.cpp
+	"edge.hpp"
+
+1519816462 c:\users\giovanni\desktop\progetto_giovanni_castellano\bellman_ford\hpp files\edge.hpp
+	"librerie.hpp"
+
+1519816460 c:\users\giovanni\desktop\progetto_giovanni_castellano\bellman_ford\hpp files\librerie.hpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<string>
+
+1527930268 source:c:\users\giovanni\desktop\progetto_giovanni_castellano\bellman_ford\main.cpp
+	"main.hpp"
+
+1519816458 c:\users\giovanni\desktop\progetto_giovanni_castellano\bellman_ford\hpp files\main.hpp
+	"librerie.hpp"
+	"edge.hpp"
+	"graph.hpp"
+
+1527930466 c:\users\giovanni\desktop\progetto_giovanni_castellano\bellman_ford\hpp files\graph.hpp
+	"librerie.hpp"
+	"edge.hpp"
+
+1527930671 source:c:\users\giovanni\desktop\progetto_giovanni_castellano\bellman_ford\cpp files\graph.cpp
+	"graph.hpp"
+
